@@ -1,8 +1,23 @@
-# React + Vite
+# Página de Clima por País
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web que permite a los usuarios consultar el clima actual en diferentes países. La aplicación está desarrollada en React utilizando JSX y Axios para interactuar con una API de clima.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Consulta del clima por país y ciudad.
+- Información en tiempo real sobre temperatura, humedad, viento, etc.
+- Interfaz intuitiva y fácil de usar.
+- Consumo de la API de OpenWeather (u otra API de clima similar).
+
+## Tecnologías Utilizadas
+
+- **React**: Para la construcción de la interfaz de usuario mediante componentes.
+- **JSX**: Para definir la estructura y la lógica de los componentes.
+- **Axios**: Utilizado para realizar solicitudes HTTP a la API de clima.
+- **API de Clima**: Se utiliza [OpenWeather](https://openweathermap.org/) para obtener los datos meteorológicos.
+
+## Instalación y Uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
