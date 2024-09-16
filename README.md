@@ -20,4 +20,5 @@ Este proyecto es una aplicación web que permite a los usuarios consultar el cli
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/GabrielHaurane/TP-React-punto-13
+2. Para verlo en internet https://clima13.netlify.app
